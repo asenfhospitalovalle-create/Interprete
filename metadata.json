@@ -1,0 +1,5 @@
+{
+  "name": "Interprete AI",
+  "description": "An AI-powered application to interpret Chilean legal documents. Upload PDFs or images of legal texts, and get a clear, easy-to-understand explanation. Includes a chatbot for general questions and a 'Thinking Mode' for complex analyses.",
+  "requestFramePermissions": []
+}
